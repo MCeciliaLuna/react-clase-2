@@ -1,0 +1,12 @@
+button{
+  background-color: brown;
+  color: white;
+  margin: 25px;
+  padding: 10px;
+  width: 70%;
+}
+
+button:hover{
+  background-color: deeppink;
+  color: aliceblue;
+}
